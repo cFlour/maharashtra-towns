@@ -1,4 +1,3 @@
-# Example Townnames TrueGRF
+# Maharashtra Towns List for OpenTTD
 
-This is a [TrueGRF](https://truegrf.truebrain.nl/) project to demonstrate what you can do with townnames in TrueGRF.
-TrueGRF makes creating NewGRFs easy.
+Made with [TrueGRF](https://truegrf.truebrain.nl), this repository is a GRF file for [OpenTTD](https://github.com/OpenTTD/OpenTTD) and the [JGR Patch Pack](https://github.com/JGRennison/OpenTTD-patches).
