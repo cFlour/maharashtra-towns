@@ -1,0 +1,139 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: Mumbai
+    probability: 100
+  - name: Navi Mumbai
+    probability: 100
+  - name: Panvel
+    probability: 5
+  - name: Gharpuri
+    probability: 3
+  - name: Uran
+    probability: 1
+  - name: Ulwe
+    probability: 1
+  - name: Kharkopar
+    probability: 1
+  - name: Wahal
+    probability: 1
+  - name: Sheva
+    probability: 2
+  - name: Mhatwali
+    probability: 1
+  - name: Vichumbe
+    probability: 1
+  - name: Pen
+    probability: 2
+  - name: Dolvi
+    probability: 1
+  - name: Alibaug
+    probability: 5
+  - name: Mangaon
+    probability: 2
+  - name: Kolad
+    probability: 1
+  - name: Poladpur
+    probability: 1
+  - name: Nagothane
+    probability: 1
+  - name: Pali
+    probability: 1
+  - name: Barashiv
+    probability: 1
+  - name: Revdanda
+    probability: 1
+  - name: Murud
+    probability: 2
+  - name: Indapur
+    probability: 2
+  - name: Dighi
+    probability: 1
+  - name: Dabhol
+    probability: 1
+  - name: Lonere
+    probability: 1
+  - name: Shrivardhan
+    probability: 2
+  - name: Khed
+    probability: 2
+  - name: Harihareshwar
+    probability: 1
+  - name: Kelshi
+    probability: 1
+  - name: Mandangad
+    probability: 1
+  - name: Ladghar
+    probability: 1
+  - name: Lote
+    probability: 1
+  - name: Chiplun
+    probability: 3
+  - name: Guhagar
+    probability: 2
+  - name: Velaneshwar
+    probability: 2
+  - name: Palshet
+    probability: 1
+  - name: Dapoli
+    probability: 2
+  - name: Shrungartali
+    probability: 1
+  - name: Sawarde
+    probability: 1
+  - name: Abloli
+    probability: 1
+  - name: Jaigad
+    probability: 2
+  - name: Raigad
+    probability: 2
+  - name: Sangameshwar
+    probability: 2
+  - name: Ganpatipule
+    probability: 3
+  - name: Devrukh
+    probability: 2
+  - name: Ratnagiri
+    probability: 5
+  - name: Lanja
+    probability: 1
+  - name: Pawas
+    probability: 1
+  - name: Vishalgad
+    probability: 1
+  - name: Vaibhavwadi
+    probability: 2
+  - name: Vijaydurg
+    probability: 2
+  - name: Rajapur
+    probability: 3
+  - name: Devgad
+    probability: 3
+  - name: Malvan
+    probability: 3
+  - name: Oros
+    probability: 5
+  - name: Kudal
+    probability: 1
+  - name: Sindhudurg
+    probability: 2
+  - name: Amboli
+    probability: 1
+  - name: Ajara
+    probability: 1
+  - name: Gargoti
+    probability: 1
+  - name: Gadhinglaj
+    probability: 1
+  - name: Adamapur
+    probability: 1
+  - name: Kagal
+    probability: 1
+  - name: Kolhapur
+    probability: 5
+  - name: Panhala
+    probability: 1
+name: Maharashtra Town Names List
+source: Google Maps
+subsets: []
